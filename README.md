@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BaiYin123-l
+- 👀 I’m interested in game
+- 🌱 I’m currently learning python
